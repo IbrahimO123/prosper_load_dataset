@@ -1,0 +1,21 @@
+## Files to not push in the repo
+
+## Notebook Checkpoints
+.ipynb_checkpoints
+
+
+## Notebook for zipping of file
+zipfile-Visual.ipynb
+
+## Another project folder on Stack up
+StackUp
+
+## Zip file for the notebook
+visualization_archive.zip
+
+## Toggle code for slideshow presentation
+output-toggle.tpl
+
+
+## Dataset
+201902-fordgobike-tripdata.csv
