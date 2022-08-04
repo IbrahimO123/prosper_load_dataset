@@ -25,6 +25,15 @@ The dataset is about loan giving to customers of the Prosper organization, the d
 
 3. The relationship between interest rate of people whose, monthly due for the all month in the dataset is not zero
 
+### Tools and Libraries Used:
+ - Anaconda
+ - Jupyter Notebook
+ - Pandas
+ - Matplotlib.pyplot
+ - Numpy
+ - Seaborn
+ - Mat
+ 
  ### Conclusion
  
  For the first insight
