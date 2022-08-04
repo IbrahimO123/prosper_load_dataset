@@ -32,7 +32,6 @@ The dataset is about loan giving to customers of the Prosper organization, the d
  - Matplotlib.pyplot
  - Numpy
  - Seaborn
- - Mat
  
  ### Conclusion
  
